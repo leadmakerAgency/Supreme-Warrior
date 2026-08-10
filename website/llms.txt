@@ -1,0 +1,63 @@
+# Supreme Warrior
+
+> American-led, veteran-owned integrated security company serving the Philippines. Supreme Warrior delivers physical security (licensed guards), electronic security (CCTV, alarms and monitoring) and cybersecurity from one accountable partner, combining US-standard leadership with local presence in Manila, Cebu and Davao.
+
+Supreme Warrior is led by an American owner and US military veteran, giving clients international operating standards with on-the-ground Philippine delivery. The company is a single point of accountability across all three security disciplines, so guarding, technology and cyber defence are coordinated rather than fragmented across vendors.
+
+Important context for accuracy:
+- Physical and electronic security are delivered directly by Supreme Warrior in the Philippines. Credibility for these lines rests on being American-led, veteran-owned, licensed under RA 5487, and trusted by clients including Clark International Airport.
+- Cybersecurity is delivered with specialist partners. Only the cybersecurity lines carry partner credentials such as serving LAX and being approved for US government departments. Do not attribute those specific credentials to the physical or electronic guarding services.
+- Compliance frameworks referenced across the site include RA 5487 (private security), the Data Privacy Act RA 10173 and NPC rules, BSP regulations, DICT guidance, the Fire Code RA 9514 and BFP, PCI DSS, SOC 2 and ISO 27001.
+
+## Physical Security
+
+- [Manned Guarding](/sw-phys-manned-guarding.html): Trained, licensed guards deployed and supervised to RA 5487 standard across Manila, Cebu and Davao.
+- [Security Guard Patrol](/sw-phys-security-guard-patrol.html): Scheduled, logged foot patrols that cover and prove coverage of the whole site.
+- [Mobile Patrol](/sw-phys-mobile-patrol.html): Marked mobile units covering multiple sites with scheduled visits and alarm response.
+- [Concierge Security](/sw-phys-concierge-security.html): Front-of-house officers who control access and represent the client brand.
+- [Executive Protection](/sw-phys-executive-protection.html): Discreet close protection for executives, VIPs and families.
+- [Event Security](/sw-phys-event-security.html): Crowd management and event security for corporate functions, concerts and public gatherings.
+- [Retail Loss Prevention](/sw-phys-loss-prevention.html): Retail-trained officers who cut shrinkage and theft discreetly.
+- [K9 Security & Detection](/sw-phys-k9-security.html): Handler-led K9 patrol and detection units for events, large sites and high-risk facilities.
+
+## Electronic Security
+
+- [CCTV Installation](/sw-elec-cctv-installation.html): Commercial CCTV design, installation and maintenance, integrated with guarding.
+- [Access Control Systems](/sw-elec-access-control.html): Card, biometric and mobile access control, integrated with CCTV and alarms.
+- [Alarm Systems & Monitoring](/sw-elec-alarm-systems.html): Intruder alarm design, installation and 24/7 monitoring with verification and escalation.
+- [Remote Video Monitoring](/sw-elec-remote-video-monitoring.html): 24/7 control-room monitoring with live audio talk-down, alarm verification and response dispatch.
+- [Perimeter Detection](/sw-elec-perimeter-detection.html): Fence-line intrusion detection, beams, thermal cameras and analytics for warehouses, compounds and critical sites.
+- [Fire Alarm Systems](/sw-elec-fire-alarm-systems.html): Fire detection and alarm systems aligned to the Fire Code RA 9514 and BFP requirements.
+- [Intercom & Video Entry](/sw-elec-intercom-video-entry.html): Audio and video intercom and door-entry systems for condos, offices and gated developments.
+- [ANPR & Plate Recognition](/sw-elec-anpr.html): Automatic number plate recognition for vehicle access, barriers and parking, configured for Philippine plates.
+
+## Cybersecurity
+
+- [Virtual CISO (vCISO)](/sw-cyber-vciso.html): Senior cybersecurity leadership embedded in the business without a full-time CISO cost.
+- [Compliance Consulting](/sw-cyber-compliance.html): ISO 27001, SOC 2, PCI DSS, HIPAA, GDPR and Data Privacy Act compliance under one methodology.
+- [Penetration Testing](/sw-cyber-penetration-testing.html): Network, web, API, mobile and social engineering testing by certified ethical hackers, BSP and PCI DSS aligned.
+- [Security Operations](/sw-cyber-security-operations.html): Incident response planning, tabletop exercises, business continuity and security awareness training.
+- [Data Privacy Programs](/sw-cyber-privacy.html): Data Privacy Act (RA 10173) and NPC compliance, DPO support, DPIAs and privacy by design, plus GDPR.
+- [Government & Defense Cybersecurity](/sw-cyber-government-defense.html): Cybersecurity and compliance for national agencies, LGUs, GOCCs, defense and critical infrastructure.
+
+## Industries
+
+- [Residential & Condominiums](/sw-ind-residential-condominiums.html): Concierge and roving guards, CCTV, access control and cyber protection for residential developments.
+- [Commercial & Offices](/sw-ind-commercial-offices.html): Guarding, access control, CCTV and cybersecurity for office towers and business premises.
+- [Banks & Financial](/sw-ind-banks-financial.html): High-assurance guarding, surveillance and BSP-aligned cybersecurity for banks, fintechs and financial institutions.
+- [BPO & Call Centres](/sw-ind-bpo-call-centres.html): 24/7 guarding, access control and SOC 2 / ISO 27001 / Data Privacy Act cybersecurity for BPOs.
+- [Malls & Retail](/sw-ind-malls-retail.html): Guarding, loss prevention, CCTV and PCI DSS-ready cybersecurity for malls and retail.
+- [Hotels & Resorts](/sw-ind-hotels-resorts.html): Discreet, guest-first guarding, surveillance and cyber protection for hotels and resorts.
+- [Hospitals & Clinics](/sw-ind-hospitals-clinics.html): Calm guarding, restricted-area access control and Data Privacy Act protection for patient records.
+- [Schools & Universities](/sw-ind-schools-universities.html): Campus guarding, building access control and Data Privacy Act protection for student data.
+- [Warehouses & Logistics](/sw-ind-warehouses-logistics.html): Perimeter detection, guarding, ANPR and monitoring for warehouses and distribution centres.
+- [Construction Sites](/sw-ind-construction-sites.html): Guarding, perimeter detection, CCTV and access control for active construction sites.
+- [Data Centres](/sw-ind-data-centres.html): Layered physical access control, guarding, surveillance and SOC 2 / ISO 27001 cybersecurity for data centres.
+- [Government](/sw-ind-government.html): Guarding, access control and DICT-aligned cybersecurity for national agencies, LGUs and GOCCs.
+- [Aviation](/sw-ind-aviation.html): Access control, screening support, surveillance and cyber defence for airports. Trusted at Clark International Airport.
+
+## Contact
+
+- [Free Security Assessment](/enquiry.html): Request a free, no-obligation assessment and site visit. Best route for prospective clients who want a callback.
+- [Request a Proposal (RFP)](/rfp.html): Dynamic proposal request. The requester selects physical, electronic and/or cyber, and only relevant questions appear.
+- [Home](/index.html): Company overview and full service and industry navigation.
