@@ -56,6 +56,11 @@ Important context for accuracy:
 - [Government](/sw-ind-government.html): Guarding, access control and DICT-aligned cybersecurity for national agencies, LGUs and GOCCs.
 - [Aviation](/sw-ind-aviation.html): Access control, screening support, surveillance and cyber defence for airports. Trusted at Clark International Airport.
 
+## Blog
+
+- [/blog/](/blog/) — Security insights and guides
+- [/feed.xml](/feed.xml) — Atom feed
+
 ## Contact
 
 - [Free Security Assessment](/enquiry.html): Request a free, no-obligation assessment and site visit. Best route for prospective clients who want a callback.

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if title %}{{ title }} | Supreme Warrior{% else %}Articles | Supreme Warrior{% endif %}</title>
+  <meta name="description" content="{% if excerpt %}{{ excerpt }}{% else %}Security insights, guides and expert advice from Supreme Warrior — integrated physical, electronic and cyber security across the Philippines.{% endif %}" />
+  {% if canonical %}<link rel="canonical" href="{{ canonical }}" />{% endif %}
+  <meta property="og:title" content="{% if title %}{{ title }}{% else %}Articles | Supreme Warrior{% endif %}" />
+  <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% else %}Security insights and guides from Supreme Warrior.{% endif %}" />
+  <meta property="og:type" content="{% if layout == 'blog-post.njk' %}article{% else %}website{% endif %}" />
+  {% if featured_image %}<meta property="og:image" content="{{ site.url }}{{ featured_image }}" />{% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;1,700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/blog.css" />
+  <link rel="alternate" type="application/atom+xml" title="Supreme Warrior Articles" href="/feed.xml" />
+</head>
+<body>
+
+<header class="blog-site-header">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <img src="{{ logo }}" alt="Supreme Warrior" />
+      <div>
+        <b>Supreme Warrior</b>
+        <span>Integrated Security</span>
+      </div>
+    </a>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/index.html#services">Services</a></li>
+        <li><a href="/blog/" {% if blogActive %}class="active"{% endif %}>Articles</a></li>
+      </ul>
+    </nav>
+    <a class="btn-primary" href="/enquiry.html">Free Assessment</a>
+  </div>
+</header>
