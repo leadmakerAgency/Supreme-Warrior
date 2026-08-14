@@ -1,4 +1,16 @@
+const fs = require("fs");
+const path = require("path");
 const { shouldHideInProduction } = require("./lib/post-visibility");
+
+function addWebsiteHtmlPassthrough(eleventyConfig) {
+  const websiteRoot = path.join(__dirname, "website");
+  for (const entry of fs.readdirSync(websiteRoot, { withFileTypes: true })) {
+    if (entry.isFile() && entry.name.endsWith(".html")) {
+      const src = `website/${entry.name}`;
+      eleventyConfig.addPassthroughCopy({ [src]: entry.name });
+    }
+  }
+}
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("CMS-SETUP.md");
@@ -8,27 +20,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "content/media": "media" });
   eleventyConfig.addPassthroughCopy("admin/");
 
-  const staticPages = [
-    "website/index.html",
-    "website/enquiry.html",
-    "website/enquiry-thank-you.html",
-    "website/rfp.html",
-    "website/rfp-thank-you.html",
-    "website/sw-phys-mobile-patrol.html",
-    "website/sw-phys-k9-security.html",
-    "website/sw-phys-loss-prevention.html",
-    "website/sw-phys-event-security.html",
-    "website/sw-cyber-vciso.html",
-    "website/sw-cyber-compliance.html",
-    "website/sw-cyber-penetration-testing.html",
-    "website/sw-cyber-security-operations.html",
-    "website/sw-cyber-privacy.html",
-    "website/sw-cyber-government-defense.html",
-  ];
-  for (const page of staticPages) {
-    const dest = page.replace("website/", "");
-    eleventyConfig.addPassthroughCopy({ [page]: dest });
-  }
+  addWebsiteHtmlPassthrough(eleventyConfig);
   eleventyConfig.addPassthroughCopy({ "website/llms.txt": "llms.txt" });
 
   eleventyConfig.addFilter("rangeFromOne", (end) => {
