@@ -457,6 +457,14 @@ body {
 }
 
 .blog-post-body { color: var(--grey); line-height: 1.8; font-size: 1.05rem; }
+.blog-post-body .post-lede {
+  font-size: 1.12rem;
+  color: var(--white);
+  line-height: 1.75;
+  margin: 0 0 1.8em;
+  padding: 0 0 0 16px;
+  border-left: 3px solid var(--orange);
+}
 .blog-post-body h2 {
   font-family: 'Barlow Condensed', sans-serif;
   color: var(--white);
