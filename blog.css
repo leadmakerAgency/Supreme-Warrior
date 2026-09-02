@@ -417,11 +417,37 @@ body {
 
 .post-meta span { display: inline-flex; align-items: center; gap: 5px; }
 
+.post-wrap--has-image {
+  padding-top: 0;
+}
+
+.post-featured-figure {
+  margin: -48px auto 40px;
+  max-width: 620px;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--line);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.35);
+  background: var(--bg3);
+}
+
 .post-featured-image {
-  max-height: 480px;
   width: 100%;
+  height: auto;
+  max-height: 360px;
   object-fit: cover;
   display: block;
+}
+
+@media (max-width: 700px) {
+  .post-featured-figure {
+    margin: -32px auto 28px;
+    max-width: 100%;
+  }
+
+  .post-hero {
+    padding-bottom: 40px;
+  }
 }
 
 .post-wrap {

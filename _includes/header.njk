@@ -9,7 +9,7 @@
   <meta property="og:title" content="{% if title %}{{ title }}{% else %}Articles | Supreme Warrior{% endif %}" />
   <meta property="og:description" content="{% if excerpt %}{{ excerpt }}{% else %}Security insights and guides from Supreme Warrior.{% endif %}" />
   <meta property="og:type" content="{% if layout == 'blog-post.njk' %}article{% else %}website{% endif %}" />
-  {% if featured_image %}<meta property="og:image" content="{{ site.url }}{{ featured_image }}" />{% endif %}
+  {% if featured_image %}<meta property="og:image" content="{{ site.url }}{{ featured_image | mediaUrl(slug) }}" />{% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;1,700&family=Barlow:wght@400;500;600&display=swap" rel="stylesheet" />

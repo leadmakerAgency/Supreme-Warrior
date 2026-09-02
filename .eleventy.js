@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const { shouldHideInProduction } = require("./lib/post-visibility");
+const { resolveMediaUrl } = require("./lib/resolve-media");
 
 function addWebsiteHtmlPassthrough(eleventyConfig) {
   const websiteRoot = path.join(__dirname, "website");
@@ -62,6 +63,10 @@ module.exports = function (eleventyConfig) {
       month: "long",
     });
   });
+
+  eleventyConfig.addFilter("mediaUrl", (url, slug) =>
+    resolveMediaUrl(url, { slug: typeof slug === "string" ? slug : undefined })
+  );
 
   eleventyConfig.addFilter("readingTime", (content) => {
     if (!content) return "1 min read";
