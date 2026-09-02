@@ -7,8 +7,9 @@ excerpt: "Hook: A single unlocked gate, an unpatched router, or an employee who 
 featured_image: "/media/image-security-philippines-guide-to-home-business-and-cyber-safety.png"
 hero_emoji: ""
 tags:
-  - "airbnb"
-  - "cambridge"
+  - "Home Security"
+  - "Cybersecurity"
+  - "Philippines"
 permalink: "/blog/security-philippines-guide-to-home-business-and-cyber-safety/"
 ---
 

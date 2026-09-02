@@ -2,6 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { shouldHideInProduction } = require("./lib/post-visibility");
 const { resolveMediaUrl } = require("./lib/resolve-media");
+const { normalizeCmsMarkdown } = require("./lib/normalize-cms-markdown");
 
 function addWebsiteHtmlPassthrough(eleventyConfig) {
   const websiteRoot = path.join(__dirname, "website");
@@ -25,6 +26,14 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPassthroughCopy({ "content/media": "media" });
   eleventyConfig.addPassthroughCopy("admin/");
+
+  eleventyConfig.addPreprocessor("normalize-cms-markdown", "md", function (data, content) {
+    const inputPath = String(this.inputPath || "").replace(/\\/g, "/");
+    if (!inputPath.includes("content/posts/")) {
+      return content;
+    }
+    return normalizeCmsMarkdown(content);
+  });
 
   addWebsiteHtmlPassthrough(eleventyConfig);
   eleventyConfig.addPassthroughCopy({ "website/llms.txt": "llms.txt" });
@@ -67,6 +76,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("mediaUrl", (url, slug) =>
     resolveMediaUrl(url, { slug: typeof slug === "string" ? slug : undefined })
   );
+
+  const blockedTags = new Set(["posts", "airbnb", "cambridge"]);
+  eleventyConfig.addFilter("displayTags", (tags) => {
+    if (!Array.isArray(tags)) return [];
+    return tags.filter((tag) => !blockedTags.has(String(tag).toLowerCase()));
+  });
 
   eleventyConfig.addFilter("readingTime", (content) => {
     if (!content) return "1 min read";
