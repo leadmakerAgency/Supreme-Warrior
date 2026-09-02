@@ -2,8 +2,8 @@
   "name": "supreme-warrior",
   "version": "1.0.0",
   "scripts": {
-    "build": "node ./node_modules/@11ty/eleventy/cmd.cjs",
-    "dev": "node ./node_modules/@11ty/eleventy/cmd.cjs --serve"
+    "build": "node scripts/inject-cookie-consent.js && node ./node_modules/@11ty/eleventy/cmd.cjs",
+    "dev": "node scripts/inject-cookie-consent.js && node ./node_modules/@11ty/eleventy/cmd.cjs --serve"
   },
   "type": "commonjs",
   "devDependencies": {

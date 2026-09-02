@@ -125,7 +125,7 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
 .fcol h5{font-family:'Barlow Condensed',sans-serif;text-transform:uppercase;letter-spacing:.1em;font-size:14px;color:var(--white);margin-bottom:14px}
 .fcol a{display:block;color:var(--muted);font-size:15px;padding:5px 0}
 .fcol a:hover{color:var(--orange)}
-.fbtm{border-top:1px solid var(--line);margin-top:40px;padding-top:22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-size:13.5px;color:var(--muted)}
+.fbtm{border-top:1px solid var(--line);margin-top:40px;padding-top:22px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;font-size:13.5px;color:var(--muted)}.foot-credit{width:100%;text-align:center;margin-top:8px;font-size:12px}.foot-credit a{color:inherit;text-decoration:none}.foot-credit a:hover{color:var(--orange)}
 
 @media(max-width:900px){
   .nav-links,.nav-cta .btn{display:none}
@@ -189,6 +189,7 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
 .hero-media img{position:relative;z-index:1;width:100%;max-width:470px;height:auto;filter:drop-shadow(0 26px 38px rgba(0,0,0,.5))}
 @media(max-width:900px){.hero-grid{grid-template-columns:1fr;gap:34px}.hero-media{order:-1;margin-bottom:6px}.hero-media img{max-width:300px}}
 </style>
+  <link rel="stylesheet" href="/cookie-consent.css">
 </head>
 <body>
 
@@ -404,7 +405,7 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
       <div class="fcol"><h5>Locations</h5><a href="#">Manila</a><a href="#">Cebu</a><a href="#">Davao</a></div>
       <div class="fcol"><h5>Company</h5><a href="#">About Us</a><a href="#">Careers</a><a href="#">Contact</a><a href="#">Get a Quote</a></div>
     </div>
-    <div class="fbtm"><span>&copy; 2026 Supreme Warrior Integrated Security Solutions. All rights reserved.</span><span>Manila &middot; Cebu &middot; Davao</span></div>
+    <div class="fbtm"><span>&copy; 2026 Supreme Warrior Integrated Security Solutions. All rights reserved.</span><span><a href="/privacy-policy.html">Privacy Policy</a> &middot; <a href="/llms.txt">llms.txt</a> &middot; Manila &middot; Cebu &middot; Davao</span><span class="foot-credit">Built by <a href="https://leadmaker.agency/" target="_blank" rel="noopener noreferrer">LeadMaker</a></span></div>
   </div>
 </footer>
 
@@ -419,5 +420,6 @@ document.querySelectorAll('.q button').forEach(function(b){b.onclick=function(){
   if(!open){q.classList.add('open');a.style.maxHeight=a.scrollHeight+'px'}
 }});
 </script>
+  <script src="/cookie-consent.js" defer></script>
 </body>
 </html>

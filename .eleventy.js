@@ -17,6 +17,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("Supreme Warrior - Home Page Copy.md");
 
   eleventyConfig.addPassthroughCopy("blog.css");
+  eleventyConfig.addPassthroughCopy({
+    "website/cookie-consent.css": "cookie-consent.css",
+    "website/cookie-consent.js": "cookie-consent.js",
+  });
   eleventyConfig.addPassthroughCopy({ "content/media": "media" });
   eleventyConfig.addPassthroughCopy("admin/");
 

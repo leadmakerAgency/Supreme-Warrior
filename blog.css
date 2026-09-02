@@ -650,3 +650,10 @@ body {
 }
 .blog-site-footer .foot-bottom a { color: inherit; text-decoration: none; }
 .blog-site-footer .foot-bottom a:hover { color: var(--orange); }
+
+.blog-site-footer .foot-credit {
+  width: 100%;
+  text-align: center;
+  margin-top: 8px;
+  font-size: 0.72rem;
+}
