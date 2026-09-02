@@ -8,8 +8,8 @@ After deploying the site, configure GitHub authentication so editors can use `/a
 2. Click **New OAuth App**
 3. Fill in:
    - **Application name:** Supreme Warrior CMS
-   - **Homepage URL:** `https://www.supremewarrior.ph`
-   - **Authorization callback URL:** `https://www.supremewarrior.ph/admin/`
+   - **Homepage URL:** `https://securityagencyphilippines.com`
+   - **Authorization callback URL:** `https://securityagencyphilippines.com/admin/`
 4. For local development, create a second OAuth app (or add a second callback):
    - `http://localhost:8080/admin/`
 5. Copy the **Client ID** and generate a **Client Secret**
@@ -39,7 +39,7 @@ Editors need **write access** to `leadmakerAgency/Supreme-Warrior`:
 
 ## 4. Editor Workflow
 
-1. Open `https://www.supremewarrior.ph/admin/`
+1. Open `https://securityagencyphilippines.com/admin/`
 2. Click **Login with GitHub**
 3. Create or edit a post
 4. Set `draft: false` and `date` ≤ today to publish
@@ -56,4 +56,4 @@ Editors need **write access** to `leadmakerAgency/Supreme-Warrior`:
 
 ## 6. Reusing LeadMaker OAuth App
 
-If Splice Property Solutions already uses a shared LeadMaker GitHub OAuth app, add `https://www.supremewarrior.ph/admin/` as an additional callback URL on that app instead of creating a new one.
+If Splice Property Solutions already uses a shared LeadMaker GitHub OAuth app, add `https://securityagencyphilippines.com/admin/` as an additional callback URL on that app instead of creating a new one.

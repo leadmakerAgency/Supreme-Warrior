@@ -219,7 +219,9 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
 <p class="sub">Request a free, no-obligation assessment. Tell us a little about your business and what you are interested in, and we will get in touch to arrange the next step.</p>
 </div></section>
 <section class="section"><div class="container"><div class="form-wrap">
-<form id="enqForm" novalidate>
+<form id="enqForm" action="https://formspree.io/f/xqpkbezo" method="POST" novalidate>
+<input type="hidden" name="_subject" value="Free Security Assessment enquiry">
+<input type="hidden" name="form_type" value="enquiry">
 <div class="form-error" id="formError"></div>
 <fieldset class="fset"><h3>Book your free assessment</h3><p class="hint">A quick request and we arrange your free, no-obligation assessment. Fields marked <span class="req">*</span> are required.</p>
 <div class="grid2">
@@ -237,6 +239,7 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
 <div class="fld full" style="margin-top:20px"><label id="enqNoteLabel">Anything specific we should know?</label><textarea name="notes" placeholder="Optional."></textarea></div>
 <div class="submit-row"><button class="btn btn-primary" type="submit">Request my free assessment <svg viewBox="0 0 24 24" width="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><span class="reassure" id="enqReassure">We reply within one business day.</span></div></fieldset>
 </form></div></div></section>
+<script src="/form-submit.js"></script>
 <script>
 (function(){
 document.querySelectorAll('.opt,.area').forEach(function(l){var i=l.querySelector('input');if(!i)return;var f=function(){l.classList.toggle('sel',i.checked)};i.addEventListener('change',f);f();});
@@ -247,8 +250,7 @@ var em=document.getElementById('e-email'),eok=/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(
 if(document.querySelectorAll('input[name="areas"]:checked').length===0)bad=true;
 var box=document.getElementById('formError');
 if(bad){box.textContent='Please complete the required fields marked with * , a valid email, and pick at least one area of interest.';box.classList.add('show');window.scrollTo({top:0,behavior:'smooth'});return;}
-/* Wire to Formspree / Web3Forms / Netlify / CRM here, then redirect on success. */
-window.location.href='enquiry-thank-you.html';
+submitSupremeForm(e.target,'enquiry-thank-you.html');
 });
 })();
 </script>

@@ -11,55 +11,55 @@ Important context for accuracy:
 
 ## Physical Security
 
-- [Manned Guarding](https://www.supremewarrior.ph/sw-phys-manned-guarding.html): Trained, licensed guards deployed and supervised to RA 5487 standard across Manila, Cebu and Davao.
-- [Security Guard Patrol](https://www.supremewarrior.ph/sw-phys-security-guard-patrol.html): Scheduled, logged foot patrols that cover and prove coverage of the whole site.
-- [Mobile Patrol](https://www.supremewarrior.ph/sw-phys-mobile-patrol.html): Marked mobile units covering multiple sites with scheduled visits and alarm response.
-- [Concierge Security](https://www.supremewarrior.ph/sw-phys-concierge-security.html): Front-of-house officers who control access and represent the client brand.
-- [Executive Protection](https://www.supremewarrior.ph/sw-phys-executive-protection.html): Discreet close protection for executives, VIPs and families.
-- [Event Security](https://www.supremewarrior.ph/sw-phys-event-security.html): Crowd management and event security for corporate functions, concerts and public gatherings.
-- [Retail Loss Prevention](https://www.supremewarrior.ph/sw-phys-loss-prevention.html): Retail-trained officers who cut shrinkage and theft discreetly.
-- [K9 Security & Detection](https://www.supremewarrior.ph/sw-phys-k9-security.html): Handler-led K9 patrol and detection units for events, large sites and high-risk facilities.
+- [Manned Guarding](https://securityagencyphilippines.com/sw-phys-manned-guarding.html): Trained, licensed guards deployed and supervised to RA 5487 standard across Manila, Cebu and Davao.
+- [Security Guard Patrol](https://securityagencyphilippines.com/sw-phys-security-guard-patrol.html): Scheduled, logged foot patrols that cover and prove coverage of the whole site.
+- [Mobile Patrol](https://securityagencyphilippines.com/sw-phys-mobile-patrol.html): Marked mobile units covering multiple sites with scheduled visits and alarm response.
+- [Concierge Security](https://securityagencyphilippines.com/sw-phys-concierge-security.html): Front-of-house officers who control access and represent the client brand.
+- [Executive Protection](https://securityagencyphilippines.com/sw-phys-executive-protection.html): Discreet close protection for executives, VIPs and families.
+- [Event Security](https://securityagencyphilippines.com/sw-phys-event-security.html): Crowd management and event security for corporate functions, concerts and public gatherings.
+- [Retail Loss Prevention](https://securityagencyphilippines.com/sw-phys-loss-prevention.html): Retail-trained officers who cut shrinkage and theft discreetly.
+- [K9 Security & Detection](https://securityagencyphilippines.com/sw-phys-k9-security.html): Handler-led K9 patrol and detection units for events, large sites and high-risk facilities.
 
 ## Electronic Security
 
-- [CCTV Installation](https://www.supremewarrior.ph/sw-elec-cctv-installation.html): Commercial CCTV design, installation and maintenance, integrated with guarding.
-- [Access Control Systems](https://www.supremewarrior.ph/sw-elec-access-control.html): Card, biometric and mobile access control, integrated with CCTV and alarms.
-- [Alarm Systems & Monitoring](https://www.supremewarrior.ph/sw-elec-alarm-systems.html): Intruder alarm design, installation and 24/7 monitoring with verification and escalation.
-- [Remote Video Monitoring](https://www.supremewarrior.ph/sw-elec-remote-video-monitoring.html): 24/7 control-room monitoring with live audio talk-down, alarm verification and response dispatch.
-- [Perimeter Detection](https://www.supremewarrior.ph/sw-elec-perimeter-detection.html): Fence-line intrusion detection, beams, thermal cameras and analytics for warehouses, compounds and critical sites.
-- [Fire Alarm Systems](https://www.supremewarrior.ph/sw-elec-fire-alarm-systems.html): Fire detection and alarm systems aligned to the Fire Code RA 9514 and BFP requirements.
-- [Intercom & Video Entry](https://www.supremewarrior.ph/sw-elec-intercom-video-entry.html): Audio and video intercom and door-entry systems for condos, offices and gated developments.
-- [ANPR & Plate Recognition](https://www.supremewarrior.ph/sw-elec-anpr.html): Automatic number plate recognition for vehicle access, barriers and parking, configured for Philippine plates.
+- [CCTV Installation](https://securityagencyphilippines.com/sw-elec-cctv-installation.html): Commercial CCTV design, installation and maintenance, integrated with guarding.
+- [Access Control Systems](https://securityagencyphilippines.com/sw-elec-access-control.html): Card, biometric and mobile access control, integrated with CCTV and alarms.
+- [Alarm Systems & Monitoring](https://securityagencyphilippines.com/sw-elec-alarm-systems.html): Intruder alarm design, installation and 24/7 monitoring with verification and escalation.
+- [Remote Video Monitoring](https://securityagencyphilippines.com/sw-elec-remote-video-monitoring.html): 24/7 control-room monitoring with live audio talk-down, alarm verification and response dispatch.
+- [Perimeter Detection](https://securityagencyphilippines.com/sw-elec-perimeter-detection.html): Fence-line intrusion detection, beams, thermal cameras and analytics for warehouses, compounds and critical sites.
+- [Fire Alarm Systems](https://securityagencyphilippines.com/sw-elec-fire-alarm-systems.html): Fire detection and alarm systems aligned to the Fire Code RA 9514 and BFP requirements.
+- [Intercom & Video Entry](https://securityagencyphilippines.com/sw-elec-intercom-video-entry.html): Audio and video intercom and door-entry systems for condos, offices and gated developments.
+- [ANPR & Plate Recognition](https://securityagencyphilippines.com/sw-elec-anpr.html): Automatic number plate recognition for vehicle access, barriers and parking, configured for Philippine plates.
 
 ## Cybersecurity
 
-- [Virtual CISO (vCISO)](https://www.supremewarrior.ph/sw-cyber-vciso.html): Senior cybersecurity leadership embedded in the business without a full-time CISO cost.
-- [Compliance Consulting](https://www.supremewarrior.ph/sw-cyber-compliance.html): ISO 27001, SOC 2, PCI DSS, HIPAA, GDPR and Data Privacy Act compliance under one methodology.
-- [Penetration Testing](https://www.supremewarrior.ph/sw-cyber-penetration-testing.html): Network, web, API, mobile and social engineering testing by certified ethical hackers, BSP and PCI DSS aligned.
-- [Security Operations](https://www.supremewarrior.ph/sw-cyber-security-operations.html): Incident response planning, tabletop exercises, business continuity and security awareness training.
-- [Data Privacy Programs](https://www.supremewarrior.ph/sw-cyber-privacy.html): Data Privacy Act (RA 10173) and NPC compliance, DPO support, DPIAs and privacy by design, plus GDPR.
-- [Government & Defense Cybersecurity](https://www.supremewarrior.ph/sw-cyber-government-defense.html): Cybersecurity and compliance for national agencies, LGUs, GOCCs, defense and critical infrastructure.
+- [Virtual CISO (vCISO)](https://securityagencyphilippines.com/sw-cyber-vciso.html): Senior cybersecurity leadership embedded in the business without a full-time CISO cost.
+- [Compliance Consulting](https://securityagencyphilippines.com/sw-cyber-compliance.html): ISO 27001, SOC 2, PCI DSS, HIPAA, GDPR and Data Privacy Act compliance under one methodology.
+- [Penetration Testing](https://securityagencyphilippines.com/sw-cyber-penetration-testing.html): Network, web, API, mobile and social engineering testing by certified ethical hackers, BSP and PCI DSS aligned.
+- [Security Operations](https://securityagencyphilippines.com/sw-cyber-security-operations.html): Incident response planning, tabletop exercises, business continuity and security awareness training.
+- [Data Privacy Programs](https://securityagencyphilippines.com/sw-cyber-privacy.html): Data Privacy Act (RA 10173) and NPC compliance, DPO support, DPIAs and privacy by design, plus GDPR.
+- [Government & Defense Cybersecurity](https://securityagencyphilippines.com/sw-cyber-government-defense.html): Cybersecurity and compliance for national agencies, LGUs, GOCCs, defense and critical infrastructure.
 
 ## Industries
 
-- [Residential & Condominiums](https://www.supremewarrior.ph/sw-ind-residential-condominiums.html): Concierge and roving guards, CCTV, access control and cyber protection for residential developments.
-- [Commercial & Offices](https://www.supremewarrior.ph/sw-ind-commercial-offices.html): Guarding, access control, CCTV and cybersecurity for office towers and business premises.
-- [Banks & Financial](https://www.supremewarrior.ph/sw-ind-banks-financial.html): High-assurance guarding, surveillance and BSP-aligned cybersecurity for banks, fintechs and financial institutions.
-- [BPO & Call Centres](https://www.supremewarrior.ph/sw-ind-bpo-call-centres.html): 24/7 guarding, access control and SOC 2 / ISO 27001 / Data Privacy Act cybersecurity for BPOs.
-- [Malls & Retail](https://www.supremewarrior.ph/sw-ind-malls-retail.html): Guarding, loss prevention, CCTV and PCI DSS-ready cybersecurity for malls and retail.
-- [Hotels & Resorts](https://www.supremewarrior.ph/sw-ind-hotels-resorts.html): Discreet, guest-first guarding, surveillance and cyber protection for hotels and resorts.
-- [Hospitals & Clinics](https://www.supremewarrior.ph/sw-ind-hospitals-clinics.html): Calm guarding, restricted-area access control and Data Privacy Act protection for patient records.
-- [Schools & Universities](https://www.supremewarrior.ph/sw-ind-schools-universities.html): Campus guarding, building access control and Data Privacy Act protection for student data.
-- [Warehouses & Logistics](https://www.supremewarrior.ph/sw-ind-warehouses-logistics.html): Perimeter detection, guarding, ANPR and monitoring for warehouses and distribution centres.
-- [Construction Sites](https://www.supremewarrior.ph/sw-ind-construction-sites.html): Guarding, perimeter detection, CCTV and access control for active construction sites.
-- [Data Centres](https://www.supremewarrior.ph/sw-ind-data-centres.html): Layered physical access control, guarding, surveillance and SOC 2 / ISO 27001 cybersecurity for data centres.
-- [Government](https://www.supremewarrior.ph/sw-ind-government.html): Guarding, access control and DICT-aligned cybersecurity for national agencies, LGUs and GOCCs.
-- [Aviation](https://www.supremewarrior.ph/sw-ind-aviation.html): Access control, screening support, surveillance and cyber defence for airports. Trusted at Clark International Airport.
+- [Residential & Condominiums](https://securityagencyphilippines.com/sw-ind-residential-condominiums.html): Concierge and roving guards, CCTV, access control and cyber protection for residential developments.
+- [Commercial & Offices](https://securityagencyphilippines.com/sw-ind-commercial-offices.html): Guarding, access control, CCTV and cybersecurity for office towers and business premises.
+- [Banks & Financial](https://securityagencyphilippines.com/sw-ind-banks-financial.html): High-assurance guarding, surveillance and BSP-aligned cybersecurity for banks, fintechs and financial institutions.
+- [BPO & Call Centres](https://securityagencyphilippines.com/sw-ind-bpo-call-centres.html): 24/7 guarding, access control and SOC 2 / ISO 27001 / Data Privacy Act cybersecurity for BPOs.
+- [Malls & Retail](https://securityagencyphilippines.com/sw-ind-malls-retail.html): Guarding, loss prevention, CCTV and PCI DSS-ready cybersecurity for malls and retail.
+- [Hotels & Resorts](https://securityagencyphilippines.com/sw-ind-hotels-resorts.html): Discreet, guest-first guarding, surveillance and cyber protection for hotels and resorts.
+- [Hospitals & Clinics](https://securityagencyphilippines.com/sw-ind-hospitals-clinics.html): Calm guarding, restricted-area access control and Data Privacy Act protection for patient records.
+- [Schools & Universities](https://securityagencyphilippines.com/sw-ind-schools-universities.html): Campus guarding, building access control and Data Privacy Act protection for student data.
+- [Warehouses & Logistics](https://securityagencyphilippines.com/sw-ind-warehouses-logistics.html): Perimeter detection, guarding, ANPR and monitoring for warehouses and distribution centres.
+- [Construction Sites](https://securityagencyphilippines.com/sw-ind-construction-sites.html): Guarding, perimeter detection, CCTV and access control for active construction sites.
+- [Data Centres](https://securityagencyphilippines.com/sw-ind-data-centres.html): Layered physical access control, guarding, surveillance and SOC 2 / ISO 27001 cybersecurity for data centres.
+- [Government](https://securityagencyphilippines.com/sw-ind-government.html): Guarding, access control and DICT-aligned cybersecurity for national agencies, LGUs and GOCCs.
+- [Aviation](https://securityagencyphilippines.com/sw-ind-aviation.html): Access control, screening support, surveillance and cyber defence for airports. Trusted at Clark International Airport.
 
 ## Blog
 
-- [Security Insights & Guides](https://www.supremewarrior.ph/blog/): Articles on physical, electronic and cyber security for Philippine businesses and facilities.
-- [Atom Feed](https://www.supremewarrior.ph/feed.xml): Machine-readable feed of blog posts.
+- [Security Insights & Guides](https://securityagencyphilippines.com/blog/): Articles on physical, electronic and cyber security for Philippine businesses and facilities.
+- [Atom Feed](https://securityagencyphilippines.com/feed.xml): Machine-readable feed of blog posts.
 
 ## Key Facts
 
@@ -74,7 +74,7 @@ Important context for accuracy:
 
 ## Contact
 
-- Website: https://www.supremewarrior.ph
-- [Free Security Assessment](https://www.supremewarrior.ph/enquiry.html): Request a free, no-obligation assessment and site visit. Best route for prospective clients who want a callback.
-- [Request a Proposal (RFP)](https://www.supremewarrior.ph/rfp.html): Dynamic proposal request. The requester selects physical, electronic and/or cyber, and only relevant questions appear.
-- [Home](https://www.supremewarrior.ph/): Company overview and full service and industry navigation.
+- Website: https://securityagencyphilippines.com
+- [Free Security Assessment](https://securityagencyphilippines.com/enquiry.html): Request a free, no-obligation assessment and site visit. Best route for prospective clients who want a callback.
+- [Request a Proposal (RFP)](https://securityagencyphilippines.com/rfp.html): Dynamic proposal request. The requester selects physical, electronic and/or cyber, and only relevant questions appear.
+- [Home](https://securityagencyphilippines.com/): Company overview and full service and industry navigation.

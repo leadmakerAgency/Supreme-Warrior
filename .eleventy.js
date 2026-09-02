@@ -20,6 +20,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "website/cookie-consent.css": "cookie-consent.css",
     "website/cookie-consent.js": "cookie-consent.js",
+    "website/form-submit.js": "form-submit.js",
   });
   eleventyConfig.addPassthroughCopy({ "content/media": "media" });
   eleventyConfig.addPassthroughCopy("admin/");

@@ -219,7 +219,9 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
 <p class="sub">Tell us what you need and we will come back with a tailored proposal. Choose physical, electronic or cyber security, or any mix, and only the relevant questions appear.</p>
 </div></section>
 <section class="section"><div class="container"><div class="form-wrap">
-<form id="rfpForm" novalidate>
+<form id="rfpForm" action="https://formspree.io/f/xqpkbezo" method="POST" novalidate>
+<input type="hidden" name="_subject" value="RFP request">
+<input type="hidden" name="form_type" value="rfp">
 <div class="form-error" id="formError"></div>
 <fieldset class="fset"><h3>1. About you</h3><p class="hint">Fields marked <span class="req">*</span> are required.</p>
 <div class="grid2">
@@ -250,6 +252,7 @@ footer p{font-size:15px;color:var(--muted);max-width:300px}
 <div class="fld full"><label>Anything else we should know?</label><textarea name="notes" placeholder="Optional. Context, deadlines, current provider, specific concerns."></textarea></div>
 <div class="submit-row"><button class="btn btn-primary" type="submit">Send my request <svg viewBox="0 0 24 24" width="16" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button><span class="reassure">We reply within one business day. Prefer to talk? Call or Viber <a href="#">[phone to add]</a>.</span></div></fieldset>
 </form></div></div></section>
+<script src="/form-submit.js"></script>
 <script>
 (function(){
 document.querySelectorAll('.opt,.area').forEach(function(l){var i=l.querySelector('input');if(!i)return;var f=function(){l.classList.toggle('sel',i.checked)};i.addEventListener('change',f);f();});
@@ -261,8 +264,7 @@ var em=document.getElementById('f-email'),eok=/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(
 if(document.querySelectorAll('input[name="areas"]:checked').length===0)bad=true;
 var box=document.getElementById('formError');
 if(bad){box.textContent='Please complete the required fields marked with * , a valid email, and pick at least one security area.';box.classList.add('show');window.scrollTo({top:0,behavior:'smooth'});return;}
-/* Wire to Formspree / Web3Forms / Netlify / CRM here, then redirect on success. */
-window.location.href='rfp-thank-you.html';
+submitSupremeForm(e.target,'rfp-thank-you.html');
 });
 })();
 </script>

@@ -13,7 +13,7 @@ const staticPaths = fs
   });
 
 module.exports = {
-  url: "https://www.supremewarrior.ph",
+  url: "https://securityagencyphilippines.com",
   name: "Supreme Warrior",
   buildDate: new Date().toISOString().slice(0, 10),
   blogPageSize: 15,
