@@ -4,24 +4,33 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  {% for path in site.staticPaths %}
+  {% for entry in site.staticPaths %}
   <url>
-    <loc>{{ site.url }}{{ path }}</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>{{ site.url }}{{ entry.path }}</loc>
+    <lastmod>{{ entry.lastmod }}</lastmod>
   </url>
   {% endfor %}
   <url>
-    <loc>{{ site.url }}/blog/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <loc>{{ site.url }}/blog</loc>
+    <lastmod>{{ site.buildDate }}</lastmod>
   </url>
-  {% for post in collections.posts %}
+  {% set pageCount = collections.posts | length | blogPageCount(site.blogPageSize) %}
+  {% for n in (pageCount | rangeFromOne) %}
+  {% if n > 1 %}
   <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    <lastmod>{{ post.date | isoDate }}</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <loc>{{ site.url }}/blog/page/{{ n }}</loc>
+    <lastmod>{{ site.buildDate }}</lastmod>
+  </url>
+  {% endif %}
+  {% endfor %}
+  {% for post in collections.posts %}
+  {% set postPath = post.url %}
+  {% if postPath.length > 1 and postPath[postPath.length - 1] == "/" %}
+  {% set postPath = postPath.slice(0, -1) %}
+  {% endif %}
+  <url>
+    <loc>{{ site.url }}{{ postPath }}</loc>
+    <lastmod>{{ (post.data.updated or post.date) | isoDate }}</lastmod>
   </url>
   {% endfor %}
 </urlset>
