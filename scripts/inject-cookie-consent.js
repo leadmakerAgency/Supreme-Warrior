@@ -4,6 +4,7 @@ const path = require("path");
 const websiteRoot = path.join(__dirname, "..", "website");
 const CSS_MARKER = '<link rel="stylesheet" href="/cookie-consent.css">';
 const SCRIPT_MARKER = '<script src="/cookie-consent.js" defer></script>';
+<<<<<<< HEAD
 const GTM_CONTAINER_ID = "GTM-TRM5KHRR";
 const GTM_HEAD = `<!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -18,6 +19,8 @@ const GTM_NOSCRIPT = `<!-- Google Tag Manager (noscript) -->
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 `;
+=======
+>>>>>>> 09bc9d52bd8ab3459f98c5b74d2b0a083d16c31c
 const PRIVACY_FOOTER_OLD =
   '<span><a href="/llms.txt">llms.txt</a> &middot; Manila &middot; Cebu &middot; Davao</span>';
 const PRIVACY_FOOTER_NEW =
@@ -32,6 +35,7 @@ for (const entry of fs.readdirSync(websiteRoot, { withFileTypes: true })) {
   let html = fs.readFileSync(filePath, "utf8");
   let changed = false;
 
+<<<<<<< HEAD
   if (!html.includes(GTM_CONTAINER_ID)) {
     if (!/<head>/i.test(html) || !/<body[^>]*>/i.test(html)) {
       console.warn(`Skipping ${entry.name}: missing <head> or <body>`);
@@ -42,6 +46,8 @@ for (const entry of fs.readdirSync(websiteRoot, { withFileTypes: true })) {
     changed = true;
   }
 
+=======
+>>>>>>> 09bc9d52bd8ab3459f98c5b74d2b0a083d16c31c
   if (!html.includes(CSS_MARKER)) {
     if (!html.includes("</head>")) {
       console.warn(`Skipping ${entry.name}: no </head> found`);
