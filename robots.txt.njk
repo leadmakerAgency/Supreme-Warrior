@@ -1,0 +1,11 @@
+---
+permalink: /robots.txt
+eleventyExcludeFromCollections: true
+---
+User-agent: *
+Allow: /
+
+{% for path in site.disallowedPaths -%}
+Disallow: {{ path }}
+{% endfor -%}
+Sitemap: {{ site.sitemapUrl }}
