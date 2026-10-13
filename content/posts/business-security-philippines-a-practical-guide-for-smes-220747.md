@@ -1,15 +1,16 @@
 ---
-layout: "blog-post.njk"
-title: "Business Security Philippines: A Practical Guide for SMEs"
-slug: "business-security-philippines-a-practical-guide-for-smes"
-date: "2026-09-11T14:02:45.347Z"
-excerpt: "Hook A single stolen smartphone, a flooded stockroom, or one successful phishing email can wipe out weeks of sales and hours of work for a small business. For many SMEs in the Philippines, security is not an abstract concern, it is the diff"
-featured_image: "/media/image-business-security-philippines-a-practical-guide-for-smes.png"
-hero_emoji: ""
+title: 'Business Security Philippines: A Practical Guide for SMEs'
+slug: business-security-philippines-a-practical-guide-for-smes
+date: 2026-09-11T14:02:45.347Z
+draft: false
+excerpt: Hook A single stolen smartphone, a flooded stockroom, or one successful phishing email can wipe out weeks of sales and hours of work for a small business. For many SMEs in the Philippines, security is not an abstract concern, it is the diff
+featured_image: /media/image-business-security-philippines-a-practical-guide-for-smes.png
+hero_emoji: ''
 tags:
-  - "airbnb"
-  - "cambridge"
-permalink: "/blog/business-security-philippines-a-practical-guide-for-smes/"
+  - airbnb
+  - cambridge
+layout: blog-post.njk
+permalink: /blog/business-security-philippines-a-practical-guide-for-smes/
 ---
 
 Hook
@@ -121,6 +122,3 @@ Adjust the timeline to your cash flow and risk profile. Reassess priorities afte
 Conclusion
 
 Business security Philippines means combining common-sense physical precautions, straightforward cyber hygiene, and clear processes for employees and vendors. You do not need a large budget to protect most everyday risks. Start by listing your most valuable assets, close the easiest gaps first, document simple policies, and build resilience over time. With a plan and consistent habits, small and medium enterprises can reduce losses, comply with local rules, and keep serving customers even when unexpected events occur.
-
-
-
