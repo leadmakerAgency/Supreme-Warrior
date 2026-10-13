@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Outsourcing Philippines: Benefits, Costs & Tips"
 slug: "security-outsourcing-philippines-benefits-costs-tips"
 date: "2026-09-17T14:02:38.077Z"
+draft: false
 excerpt: "Many businesses treat security as an expense to squeeze, until a preventable incident turns cost-cutting into crisis management. Outsourcing security in the Philippines can stop that cycle by replacing fragmented, reactive measures with pro"
 featured_image: "/media/image-security-outsourcing-philippines-benefits-costs-tips.png"
 hero_emoji: ""

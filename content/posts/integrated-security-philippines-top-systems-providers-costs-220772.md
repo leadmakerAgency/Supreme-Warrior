@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Integrated Security Philippines: Top Systems, Providers & Costs"
 slug: "integrated-security-philippines-top-systems-providers-costs"
 date: "2026-09-13T14:02:13.775Z"
+draft: false
 excerpt: "Hook Most security systems feel like a patchwork of cameras, keycards, and alarms that do not talk to each other. That mismatch is expensive, frustrating, and leaves gaps attackers can exploit. Integrated security Philippines offers a diffe"
 featured_image: "/media/image-integrated-security-philippines-top-systems-providers-costs.png"
 hero_emoji: ""

@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Electronic Security Philippines: Top Systems, Costs & Providers"
 slug: "electronic-security-philippines-top-systems-costs-providers"
 date: "2026-09-15T14:02:44.351Z"
+draft: false
 excerpt: "Hook Walk into any subdivision, condominium lobby, or small shop in Metro Manila and you will likely notice cameras, card readers, or alarm keypads. Electronic security has quietly become a basic requirement across the Philippines, not an o"
 featured_image: "/media/image-electronic-security-philippines-top-systems-costs-providers.png"
 hero_emoji: ""

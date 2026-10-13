@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security solutions Philippines: Top providers and pricing"
 slug: "security-solutions-philippines-top-providers-and-pricing"
 date: "2026-09-06T14:02:07.309Z"
+draft: false
 excerpt: "Hook Crime and complacency both cost money, but they do not cost the same. A single theft, a prolonged break-in, or an online intrusion can shut operations for days, damage reputation, and create ongoing liability. That is why choosing the"
 featured_image: "/media/image-security-solutions-philippines-top-providers-and-pricing.png"
 hero_emoji: ""

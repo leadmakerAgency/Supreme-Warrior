@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Private Security Philippines: How to Choose the Best Guard"
 slug: "private-security-philippines-how-to-choose-the-best-guard"
 date: "2026-09-12T14:02:22.506Z"
+draft: false
 excerpt: "A single lapse in security can cost more than assets, it can cost reputation and trust. Choosing the wrong guard or agency can leave a business exposed for months before anyone notices. That risk makes the decision about private security Ph"
 featured_image: "/media/image-private-security-philippines-how-to-choose-the-best-guard.png"
 hero_emoji: ""

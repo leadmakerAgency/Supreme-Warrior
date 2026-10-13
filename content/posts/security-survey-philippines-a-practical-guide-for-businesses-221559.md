@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security survey Philippines: A practical guide for businesses"
 slug: "security-survey-philippines-a-practical-guide-for-businesses"
 date: "2026-10-06T14:02:15.549Z"
+draft: false
 excerpt: "Hook A single weekend without power, a damaged server room after a typhoon, or a single unlit entry point can be the beginning of a chain reaction that costs a business far more than the immediate loss. Many Philippine companies treat secur"
 featured_image: "/media/image-security-survey-philippines-a-practical-guide-for-businesses.png"
 hero_emoji: ""

@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Staffing Philippines: How to Hire Top Security Guards"
 slug: "security-staffing-philippines-how-to-hire-top-security-guards"
 date: "2026-10-09T14:02:01.493Z"
+draft: false
 excerpt: "Hook A security lapse can cost far more than a damaged gate or a stolen laptop. It can damage reputation, delay projects, expose you to legal liability, and threaten people. When you need protection that works, hiring the right personnel ma"
 featured_image: "/media/image-security-staffing-philippines-how-to-hire-top-security-guards.png"
 hero_emoji: ""

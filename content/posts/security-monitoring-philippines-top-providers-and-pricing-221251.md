@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Monitoring Philippines: Top Providers and Pricing"
 slug: "security-monitoring-philippines-top-providers-and-pricing"
 date: "2026-09-30T14:02:26.259Z"
+draft: false
 excerpt: "Hook A break-in happens at 2:00 a.m., your alarm sounds, but nobody answers your call and the security company you trusted takes too long to respond. That gap between an alert and an effective response is where losses and regret occur, and"
 featured_image: "/media/image-security-monitoring-philippines-top-providers-and-pricing.png"
 hero_emoji: ""

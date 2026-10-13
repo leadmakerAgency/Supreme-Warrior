@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Contractor Philippines: Choosing the Right Provider"
 slug: "security-contractor-philippines-choosing-the-right-provider"
 date: "2026-09-08T14:02:33.426Z"
+draft: false
 excerpt: "Hook Your business spends months negotiating a lease, renovating a space, and buying expensive equipment, yet many buyers treat security as a checkbox, not a strategic decision. The moment a security guard fails to respond, or a contractor"
 featured_image: "/media/image-security-contractor-philippines-choosing-the-right-provider.png"
 hero_emoji: ""

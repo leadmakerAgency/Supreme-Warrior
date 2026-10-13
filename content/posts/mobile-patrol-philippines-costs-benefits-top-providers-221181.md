@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Mobile patrol Philippines: Costs, Benefits, Top Providers"
 slug: "mobile-patrol-philippines-costs-benefits-top-providers"
 date: "2026-09-29T14:02:28.370Z"
+draft: false
 excerpt: "Hook When a lone break-in or repeated vandalism interrupts normal operations, the first question managers ask is not how to install more cameras, it is how to create a visible, reliable presence that deters crime and responds quickly. Mobil"
 featured_image: "/media/image-mobile-patrol-philippines-costs-benefits-top-providers.png"
 hero_emoji: ""

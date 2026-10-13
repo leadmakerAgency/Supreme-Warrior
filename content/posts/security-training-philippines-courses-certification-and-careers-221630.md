@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Training Philippines: Courses, Certification and Careers"
 slug: "security-training-philippines-courses-certification-and-careers"
 date: "2026-10-07T14:02:21.721Z"
+draft: false
 excerpt: "Hook: Few professions shape a community as quietly and constantly as security personnel, yet the decision to pursue a career in protection often begins with one practical choice, the training program you pick. Pick the wrong course and you"
 featured_image: "/media/image-security-training-philippines-courses-certification-and-careers.png"
 hero_emoji: ""

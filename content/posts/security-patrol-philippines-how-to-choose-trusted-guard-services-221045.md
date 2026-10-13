@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security patrol Philippines: How to Choose Trusted Guard Services"
 slug: "security-patrol-philippines-how-to-choose-trusted-guard-services"
 date: "2026-09-26T14:02:03.622Z"
+draft: false
 excerpt: "Hook: You discover the perimeter gate propped open, a finished shipment missing, and the night log shows no meaningful patrol notes. A single weak overnight patrol can cost a business hundreds of thousands of pesos, damage reputation, and l"
 featured_image: "/media/image-security-patrol-philippines-how-to-choose-trusted-guard-services.png"
 hero_emoji: ""

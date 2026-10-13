@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Guard Agency Philippines: Hiring, Rates & Tips"
 slug: "security-guard-agency-philippines-hiring-rates-tips"
 date: "2026-09-23T14:02:15.232Z"
+draft: false
 excerpt: "Hook: Hiring the wrong security provider can cost more than money. A poorly vetted guard team risks theft, workplace violence, regulatory fines, and damage to your brand, while an overpriced agency drains operating margins without improving"
 featured_image: "/media/image-security-guard-agency-philippines-hiring-rates-tips.png"
 hero_emoji: ""

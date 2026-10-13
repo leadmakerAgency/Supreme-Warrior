@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Managed Security Philippines: Top Providers and Benefits"
 slug: "managed-security-philippines-top-providers-and-benefits"
 date: "2026-09-18T14:02:14.637Z"
+draft: false
 excerpt: "Hook: Cybersecurity failure does not wait until you grow large. A single ransomware attack or a leaked customer database can shut operations, destroy trust, and create long-term regulatory headaches for Philippine businesses of any size. In"
 featured_image: "/media/image-managed-security-philippines-top-providers-and-benefits.png"
 hero_emoji: ""

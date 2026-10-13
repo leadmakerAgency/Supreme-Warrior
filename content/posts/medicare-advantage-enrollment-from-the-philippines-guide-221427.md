@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Medicare Advantage Enrollment from the Philippines Guide"
 slug: "medicare-advantage-enrollment-from-the-philippines-guide"
 date: "2026-10-03T14:02:08.999Z"
+draft: false
 excerpt: "Hook: Many Americans who retire to the Philippines assume Medicare Advantage will follow them overseas, only to discover a maze of residency rules, plan networks, and limited overseas coverage. Understanding the realities up front can save"
 featured_image: "/media/image-medicare-advantage-enrollment-from-the-philippines-guide.png"
 hero_emoji: ""

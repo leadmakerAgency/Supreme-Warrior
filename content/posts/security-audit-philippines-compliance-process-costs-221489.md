@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Audit Philippines: Compliance, Process & Costs"
 slug: "security-audit-philippines-compliance-process-costs"
 date: "2026-10-05T14:02:16.567Z"
+draft: false
 excerpt: "A security audit Philippines companies can rely on will expose the gaps that most boards and executives do not see until an incident forces their attention. Too often a breach starts with a forgotten server, a weak admin password, or an out"
 featured_image: "/media/image-security-audit-philippines-compliance-process-costs.png"
 hero_emoji: ""

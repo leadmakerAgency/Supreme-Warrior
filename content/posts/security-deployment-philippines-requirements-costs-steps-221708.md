@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Deployment Philippines: Requirements, Costs & Steps"
 slug: "security-deployment-philippines-requirements-costs-steps"
 date: "2026-10-08T14:02:12.323Z"
+draft: false
 excerpt: "Hook A single security gap can cost a business far more than the monthly fee for guards or cameras. Whether you manage a retail outlet, condominium, factory, or corporate campus, deploying the right mix of people, procedures, and technology"
 featured_image: "/media/image-security-deployment-philippines-requirements-costs-steps.png"
 hero_emoji: ""

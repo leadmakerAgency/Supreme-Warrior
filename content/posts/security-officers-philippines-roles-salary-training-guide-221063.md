@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Officers Philippines: Roles, Salary & Training Guide"
 slug: "security-officers-philippines-roles-salary-training-guide"
 date: "2026-09-27T14:01:57.134Z"
+draft: false
 excerpt: "Hook Everyday public safety often depends on people who do not appear in headlines. Security officers Philippines keep malls calm, warehouses secure, and factories running. They stand ready through night shifts, holidays, and emergencies, y"
 featured_image: "/media/image-security-officers-philippines-roles-salary-training-guide.png"
 hero_emoji: ""

@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security operations Philippines: Best Practices and Strategies"
 slug: "security-operations-philippines-best-practices-and-strategies"
 date: "2026-10-01T14:02:00.949Z"
+draft: false
 excerpt: "Hook When an unexpected storm floods a logistics yard, a contractor attempts to bribe an on-site guard, and a ransomware alert lights up your inbox, your security team must act like a single, practiced machine. Security operations in the Ph"
 featured_image: "/media/image-security-operations-philippines-best-practices-and-strategies.png"
 hero_emoji: ""

@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Manned Guarding Philippines: Choosing the Right Security"
 slug: "manned-guarding-philippines-choosing-the-right-security"
 date: "2026-09-28T14:02:29.015Z"
+draft: false
 excerpt: "Hook When a late-night alarm triggers, the first line of defense is rarely a camera alone. A trained person on-site makes split-second judgments that cameras, sensors, and alerts cannot. For businesses in the Philippines, choosing the right"
 featured_image: "/media/image-manned-guarding-philippines-choosing-the-right-security.png"
 hero_emoji: ""

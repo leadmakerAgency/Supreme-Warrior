@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Partner Philippines: Choosing the Right Provider"
 slug: "security-partner-philippines-choosing-the-right-provider"
 date: "2026-09-09T14:02:32.075Z"
+draft: false
 excerpt: "Hook: A security guard on the wrong shift, cameras that never record, or a contract full of vague obligations can turn a routine vendor decision into a costly liability. Choosing the right security partner Philippines affects safety, compli"
 featured_image: "/media/image-security-partner-philippines-choosing-the-right-provider.png"
 hero_emoji: ""

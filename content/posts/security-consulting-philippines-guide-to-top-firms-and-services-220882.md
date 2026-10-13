@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security consulting Philippines: Guide to top firms and services"
 slug: "security-consulting-philippines-guide-to-top-firms-and-services"
 date: "2026-09-20T14:02:00.190Z"
+draft: false
 excerpt: "Hook: A single breach, a blown security contract, or a botched executive protection detail can cost a Filipino company far more than the fee of a competent consultant. Choosing the right partner matters because security failures compound qu"
 featured_image: "/media/image-security-consulting-philippines-guide-to-top-firms-and-services.png"
 hero_emoji: ""

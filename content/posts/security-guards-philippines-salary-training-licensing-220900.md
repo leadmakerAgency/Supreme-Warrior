@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security guards Philippines: Salary, Training & Licensing"
 slug: "security-guards-philippines-salary-training-licensing"
 date: "2026-09-21T14:02:31.586Z"
+draft: false
 excerpt: "Hook More people rely on security guards in the Philippines than many realize. From shopping malls and condominium lobbies to factories and cash transports, these personnel keep businesses running and property safe, yet pay and training var"
 featured_image: "/media/image-security-guards-philippines-salary-training-licensing.png"
 hero_emoji: ""

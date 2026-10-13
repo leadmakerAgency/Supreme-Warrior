@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security assessment Philippines: Checklist and Best Practices"
 slug: "security-assessment-philippines-checklist-and-best-practices"
 date: "2026-09-19T14:02:13.971Z"
+draft: false
 excerpt: "Hook: A staff member in a Manila office clicks a link after a long day, and within an hour customer records have been exported, payroll is diverted, and clients are calling to complain. That single failure is not a dramatic outlier. It reve"
 featured_image: "/media/image-security-assessment-philippines-checklist-and-best-practices.png"
 hero_emoji: ""

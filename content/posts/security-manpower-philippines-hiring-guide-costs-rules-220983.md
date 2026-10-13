@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Manpower Philippines: Hiring Guide, Costs & Rules"
 slug: "security-manpower-philippines-hiring-guide-costs-rules"
 date: "2026-09-24T14:02:20.709Z"
+draft: false
 excerpt: "Hook When a night shift fails to show up, or a perimeter patrol misses a vulnerability, the cost is not only financial. For businesses across the Philippines the quality of security manpower Philippines provides directly influences safety,"
 featured_image: "/media/image-security-manpower-philippines-hiring-guide-costs-rules.png"
 hero_emoji: ""

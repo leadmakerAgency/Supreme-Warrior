@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security guard services Philippines: How to Choose & Costs"
 slug: "security-guard-services-philippines-how-to-choose-costs"
 date: "2026-09-22T14:02:33.487Z"
+draft: false
 excerpt: "Hook: One missed theft, one poorly handled incident, or one night shift that never showed up can cost a business far more than the monthly fee for a security team. Choosing the right provider in the Philippines is not about finding the chea"
 featured_image: "/media/image-security-guard-services-philippines-how-to-choose-costs.png"
 hero_emoji: ""

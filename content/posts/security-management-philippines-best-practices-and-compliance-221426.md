@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Management Philippines: Best Practices and Compliance"
 slug: "security-management-philippines-best-practices-and-compliance"
 date: "2026-10-03T14:02:00.977Z"
+draft: false
 excerpt: "Hook Too often companies in the Philippines treat security as a visible layer, guards standing at gates, cameras recording, and little else. When a theft, fire, or data breach happens, leadership discovers that those visible measures were n"
 featured_image: "/media/image-security-management-philippines-best-practices-and-compliance.png"
 hero_emoji: ""

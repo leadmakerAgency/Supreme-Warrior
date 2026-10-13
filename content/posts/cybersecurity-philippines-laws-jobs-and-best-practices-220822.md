@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Cybersecurity Philippines: Laws, Jobs, and Best Practices"
 slug: "cybersecurity-philippines-laws-jobs-and-best-practices"
 date: "2026-09-16T14:02:33.721Z"
+draft: false
 excerpt: "Hook A single compromised password, a delayed patch, or a careless click can cost a Filipino business its reputation, its customers, and a large sum in recovery. Cybersecurity Philippines is no longer a niche concern for government agencies"
 featured_image: "/media/image-cybersecurity-philippines-laws-jobs-and-best-practices.png"
 hero_emoji: ""

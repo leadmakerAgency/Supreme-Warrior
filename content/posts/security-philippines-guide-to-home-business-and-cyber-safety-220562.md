@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Philippines: Guide to Home, Business and Cyber Safety"
 slug: "security-philippines-guide-to-home-business-and-cyber-safety"
 date: "2026-09-02T15:41:32.468Z"
+draft: false
 excerpt: "Hook: A single unlocked gate, an unpatched router, or an employee who shares passwords can turn a routine day into a costly disruption. For households and businesses across the Philippines, most security failures are not dramatic break-ins"
 featured_image: "/media/image-security-philippines-guide-to-home-business-and-cyber-safety.png"
 hero_emoji: ""

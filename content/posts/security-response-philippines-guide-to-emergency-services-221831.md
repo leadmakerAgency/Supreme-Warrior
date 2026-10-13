@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Response Philippines: Guide to Emergency Services"
 slug: "security-response-philippines-guide-to-emergency-services"
 date: "2026-10-11T14:01:52.177Z"
+draft: false
 excerpt: "Hook The alarm sounds at 2:14 a.m., lights flash on the perimeter cameras, and your security provider calls to say a team is en route. Two minutes later a marked patrol arrives, secures a gate, and begins a sweep while your staff waits, cal"
 featured_image: "/media/image-security-response-philippines-guide-to-emergency-services.png"
 hero_emoji: ""

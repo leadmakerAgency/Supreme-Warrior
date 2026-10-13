@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Medicare Advantage Software Philippines: Guide for Providers"
 slug: "medicare-advantage-software-philippines-guide-for-providers"
 date: "2026-10-02T14:02:02.524Z"
+draft: false
 excerpt: "Hook Many Medicare Advantage providers treat software as a commodity until a compliance audit, a missed encounter submission, or a flurry of dissatisfied providers exposes how wrong that assumption was. When you consider outsourcing develop"
 featured_image: "/media/image-medicare-advantage-software-philippines-guide-for-providers.png"
 hero_emoji: ""

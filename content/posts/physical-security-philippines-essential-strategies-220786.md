@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Physical Security Philippines: Essential Strategies"
 slug: "physical-security-philippines-essential-strategies"
 date: "2026-09-14T14:02:38.760Z"
+draft: false
 excerpt: "Hook You lock the door, switch off the lights, and leave your shop for the night. An hour later you learn that someone forced the back gate, stole stock, and left little evidence behind. That feeling of being exposed is not unique to that s"
 featured_image: "/media/image-physical-security-philippines-essential-strategies.png"
 hero_emoji: ""

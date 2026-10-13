@@ -3,6 +3,7 @@ layout: "blog-post.njk"
 title: "Security Supervision Philippines: Roles, Requirements & Training"
 slug: "security-supervision-philippines-roles-requirements-training"
 date: "2026-10-10T14:02:16.720Z"
+draft: false
 excerpt: "Hook: A single decision by a security supervisor can stop a theft, prevent a stampede, or calm a panic. In the Philippines, where rapid urban growth and high-traffic events are common, the quality of security supervision often determines wh"
 featured_image: "/media/image-security-supervision-philippines-roles-requirements-training.png"
 hero_emoji: ""
