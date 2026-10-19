@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-05
 draft: false
 excerpt: Ensure uninterrupted business operations and comprehensive workforce protection across Metro Manila with premier security agencies. Discover specialized office entrance verification, executive escorting, incident prevention, and integrated building surveillance solutions.
-featured_image: ''
+featured_image: /media/pexels-tima-miroshnichenko-5686082.jpg
 hero_emoji: 🛡️
 tags: []
 ---
