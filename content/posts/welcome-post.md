@@ -1,10 +1,11 @@
 ---
-title: "Why Integrated Security Matters for Philippine Businesses"
+title: Why Integrated Security Matters for Philippine Businesses
 slug: why-integrated-security-matters
 date: 2025-01-15
 draft: false
-excerpt: "Physical guarding, electronic systems and cybersecurity work best when one accountable partner coordinates them. Here's what integrated security looks like in practice across Manila, Cebu and Davao."
-hero_emoji: "🛡️"
+excerpt: Physical guarding, electronic systems and cybersecurity work best when one accountable partner coordinates them. Here's what integrated security looks like in practice across Manila, Cebu and Davao.
+featured_image: /media/pexels-vlada-karpovich-7433853.jpg
+hero_emoji: 🛡️
 tags:
   - Physical Security
   - Cybersecurity
