@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-08
 draft: false
 excerpt: Enhance business operations and safeguard corporate assets across Metro Manila with top-rated security agencies. Discover specialized executive lobby verification, VIP protection, risk management, and integrated facility surveillance solutions.
-featured_image: ''
+featured_image: /media/pexels-olly-3931641.jpg
 hero_emoji: 🛡️
 tags: []
 ---
