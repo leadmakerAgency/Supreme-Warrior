@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-23
 draft: false
 excerpt: Safeguard retail stores, boutique chains, commercial outlets, and showroom spaces across Metro Manila with leading security providers. Discover solutions for inventory loss prevention, entrance access verification, customer service guarding, and integrated store surveillance.
-featured_image: https://images.pexels.com/photos/7661332/pexels-photo-7661332.jpeg?auto=compress&cs=tinysrgb&w=1200
+featured_image: /media/image-cybersecurity-philippines-laws-jobs-and-best-practices-220822.png
 hero_emoji: 🛡️
 tags: []
 ---
