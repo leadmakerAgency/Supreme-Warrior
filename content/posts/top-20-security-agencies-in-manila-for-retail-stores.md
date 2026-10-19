@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-22
 draft: false
 excerpt: Protect stand-alone retail stores, flagship boutiques, showroom floors, and high-value shops across Metro Manila with specialized security agencies. Discover customized solutions for inventory loss prevention, entrance access screening, discreet customer service guarding, and integrated floor surveillance.
-featured_image: https://images.pexels.com/photos/6667686/pexels-photo-6667686.jpeg?auto=compress&cs=tinysrgb&w=1200
+featured_image: /media/image-corporate-security-philippines-best-practices-and-providers-222169.png
 hero_emoji: 🛡️
 tags: []
 ---
