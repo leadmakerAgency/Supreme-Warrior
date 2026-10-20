@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-15
 draft: false
 excerpt: Protect high-traffic retail environments, multi-level shopping centers, and commercial arcades across Metro Manila with specialized security agencies. Discover solutions for crowd management, loss prevention, baggage inspection, parking deck surveillance, and emergency crisis response.
-featured_image: ''
+featured_image: /media/Gemini_Generated_Image_gj6jougj6jougj6j.jpg
 hero_emoji: 🛡️
 tags: []
 ---
