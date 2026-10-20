@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-11
 draft: false
 excerpt: Protect mixed-use developments, retail centers, business parks, and commercial spaces across Metro Manila with leading security agencies. Discover specialized public access management, perimeter control, emergency life-safety protocols, and integrated asset surveillance solutions.
-featured_image: ''
+featured_image: /media/Gemini_Generated_Image_8e69r68e69r68e69.jpg
 hero_emoji: 🛡️
 tags: []
 ---
