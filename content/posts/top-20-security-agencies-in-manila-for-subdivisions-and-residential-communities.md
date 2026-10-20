@@ -4,7 +4,7 @@ slug: ''
 date: 2026-10-29
 draft: false
 excerpt: Protect gated subdivisions, private housing estates, and residential neighborhoods across Metro Manila with elite security providers. Discover specialized perimeter defense, gate access control, neighborhood roving patrols, and integrated community surveillance solutions.
-featured_image: ''
+featured_image: /media/Gemini_Generated_Image_2oveq32oveq32ove.jpg
 hero_emoji: 🛡️
 tags: []
 ---
