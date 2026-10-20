@@ -4,7 +4,7 @@ slug: ''
 date: 2026-11-02
 draft: false
 excerpt: Protect corporate offices, multi-tenant towers, and commercial complexes across Metro Manila with top-rated security agencies. Discover specialized lobby access management, tenant verification, emergency response protocols, and integrated building surveillance solutions.
-featured_image: ''
+featured_image: /media/pexels-werner-pfennig-6949496.jpg
 hero_emoji: 🛡️
 tags: []
 ---
