@@ -4,7 +4,7 @@ title: "Security Philippines: Guide to Home, Business and Cyber Safety"
 slug: "security-philippines-guide-to-home-business-and-cyber-safety"
 date: "2026-09-02T15:41:32.468Z"
 draft: false
-excerpt: "Hook: A single unlocked gate, an unpatched router, or an employee who shares passwords can turn a routine day into a costly disruption. For households and businesses across the Philippines, most security failures are not dramatic break-ins"
+excerpt: "A single unlocked gate, an unpatched router, or an employee who shares passwords can turn a routine day into a costly disruption. For households and businesses across the Philippines, most security failures are not dramatic break-ins"
 featured_image: "/media/image-security-philippines-guide-to-home-business-and-cyber-safety.png"
 hero_emoji: ""
 tags:
@@ -14,9 +14,8 @@ tags:
 permalink: "/blog/security-philippines-guide-to-home-business-and-cyber-safety/"
 ---
 
-Hook: A single unlocked gate, an unpatched router, or an employee who shares passwords can turn a routine day into a costly disruption. For households and businesses across the Philippines, most security failures are not dramatic break-ins but small, preventable oversights that add up.
+A single unlocked gate, an unpatched router, or an employee who shares passwords can turn a routine day into a costly disruption. For households and businesses across the Philippines, most security failures are not dramatic break-ins but small, preventable oversights that add up.
 
-Introduction
 Security Philippines is about more than alarm systems and CCTV. It requires a layered approach that matches local realities: densely populated urban neighborhoods, barangay-based community dynamics, frequent typhoons, and a fast-growing digital economy that attracts targeted cybercrime. This guide brings those threads together into practical actions you can take at home, at work, and online. Read on for steps that reduce risk, practical examples tailored to Philippine contexts, and guidance for choosing local security services.
 
 H2: Understanding the local security landscape

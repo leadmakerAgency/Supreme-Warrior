@@ -3,7 +3,7 @@ title: 'Business Security Philippines: A Practical Guide for SMEs'
 slug: business-security-philippines-a-practical-guide-for-smes
 date: 2026-09-11T14:02:45.347Z
 draft: false
-excerpt: Hook A single stolen smartphone, a flooded stockroom, or one successful phishing email can wipe out weeks of sales and hours of work for a small business. For many SMEs in the Philippines, security is not an abstract concern, it is the diff
+excerpt: A single stolen smartphone, a flooded stockroom, or one successful phishing email can wipe out weeks of sales and hours of work for a small business. For many SMEs in the Philippines, security is not an abstract concern, it is the diff
 featured_image: /media/image-business-security-philippines-a-practical-guide-for-smes.png
 hero_emoji: ''
 tags:
@@ -13,11 +13,7 @@ layout: blog-post.njk
 permalink: /blog/business-security-philippines-a-practical-guide-for-smes/
 ---
 
-Hook
-
 A single stolen smartphone, a flooded stockroom, or one successful phishing email can wipe out weeks of sales and hours of work for a small business. For many SMEs in the Philippines, security is not an abstract concern, it is the difference between staying open and closing for good.
-
-Introduction
 
 Business security Philippines covers a set of practical steps that protect employees, customers, money, and data. Small and medium enterprises face a particular mix of risks: physical crime in busy retail districts, recurring natural hazards like typhoons and floods, and growing cyber threats aimed at underprotected systems. This article explains how to assess those risks, take affordable and effective precautions, comply with local rules, and prepare to recover if the worst happens. The guidance below focuses on real measures that managers and owners can implement with common resources and modest budgets.
 

@@ -3,7 +3,7 @@ layout: "blog-post.njk"
 title: "Building Security Philippines: Practical Guide to Compliance"
 slug: "building-security-philippines-practical-guide-to-compliance"
 date: "2026-10-21T14:02:45.185Z"
-excerpt: "Hook A single failed inspection, a privacy complaint, or an untrained security guard can turn a secure-looking property into a legal and reputational problem overnight. For building owners and managers in the Philippines, compliance is not"
+excerpt: "A single failed inspection, a privacy complaint, or an untrained security guard can turn a secure-looking property into a legal and reputational problem overnight. For building owners and managers in the Philippines, compliance is not"
 featured_image: "/media/image-building-security-philippines-practical-guide-to-compliance.png"
 hero_emoji: ""
 tags:
@@ -12,11 +12,7 @@ tags:
 permalink: "/blog/building-security-philippines-practical-guide-to-compliance/"
 ---
 
-Hook
-
 A single failed inspection, a privacy complaint, or an untrained security guard can turn a secure-looking property into a legal and reputational problem overnight. For building owners and managers in the Philippines, compliance is not a one-time checklist. It is an ongoing program that combines law, good practice, technology, and clear documentation.
-
-Introduction
 
 This guide explains how to build, maintain, and document building security Philippines needs to meet regulatory expectations and protect people and assets. You will get a practical framework that ties the main statutes and agencies to everyday actions: risk assessment, physical and electronic controls, security personnel management, privacy-safe surveillance, emergency planning, and maintaining certificates. Read this as a working manual you can adapt to a commercial building, condominium, factory, or mixed-use property.
 

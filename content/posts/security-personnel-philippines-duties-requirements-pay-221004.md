@@ -4,7 +4,7 @@ title: "Security Personnel Philippines: Duties, Requirements & Pay"
 slug: "security-personnel-philippines-duties-requirements-pay"
 date: "2026-09-25T14:02:25.162Z"
 draft: false
-excerpt: "Hook Most people assume a security guard simply stands at a gate and watches people pass. The truth is that security personnel in the Philippines perform a wide array of tasks that combine vigilance, quick decision making, customer service,"
+excerpt: "Most people assume a security guard simply stands at a gate and watches people pass. The truth is that security personnel in the Philippines perform a wide array of tasks that combine vigilance, quick decision making, customer service,"
 featured_image: "/media/image-security-personnel-philippines-duties-requirements-pay.png"
 hero_emoji: ""
 tags:
@@ -13,11 +13,7 @@ tags:
 permalink: "/blog/security-personnel-philippines-duties-requirements-pay/"
 ---
 
-Hook
-
 Most people assume a security guard simply stands at a gate and watches people pass. The truth is that security personnel in the Philippines perform a wide array of tasks that combine vigilance, quick decision making, customer service, and legal responsibility. Their actions shape safety for businesses, schools, malls, and neighborhoods every day.
-
-Introduction
 
 This article explains who security personnel Philippines are, what they actually do, the qualifications and legal requirements you need, and how pay and benefits typically work. Whether you are exploring a career as a security officer, managing hiring for a company, or trying to understand why pay and training matter, the following sections provide practical, realistic guidance about the role and how to prepare for it.
 

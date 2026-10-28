@@ -8,13 +8,6 @@
     {% endif %}
 
     {% set visibleTags = tags | displayTags %}
-    {% if visibleTags | length %}
-    <div class="post-tags">
-      {% for tag in visibleTags %}
-        <span class="post-tag">{{ tag }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
 
     <h1>{{ title }}</h1>
 

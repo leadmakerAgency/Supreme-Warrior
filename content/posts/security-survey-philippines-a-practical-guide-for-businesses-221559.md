@@ -4,7 +4,7 @@ title: "Security survey Philippines: A practical guide for businesses"
 slug: "security-survey-philippines-a-practical-guide-for-businesses"
 date: "2026-10-06T14:02:15.549Z"
 draft: false
-excerpt: "Hook A single weekend without power, a damaged server room after a typhoon, or a single unlit entry point can be the beginning of a chain reaction that costs a business far more than the immediate loss. Many Philippine companies treat secur"
+excerpt: "A single weekend without power, a damaged server room after a typhoon, or a single unlit entry point can be the beginning of a chain reaction that costs a business far more than the immediate loss. Many Philippine companies treat secur"
 featured_image: "/media/image-security-survey-philippines-a-practical-guide-for-businesses.png"
 hero_emoji: ""
 tags:
@@ -13,10 +13,8 @@ tags:
 permalink: "/blog/security-survey-philippines-a-practical-guide-for-businesses/"
 ---
 
-Hook
 A single weekend without power, a damaged server room after a typhoon, or a single unlit entry point can be the beginning of a chain reaction that costs a business far more than the immediate loss. Many Philippine companies treat security as an afterthought, until an incident forces an urgent, expensive response. A well-executed security survey changes that reactive posture into a planned, measurable approach to reducing risk.
 
-Introduction
 A Security survey Philippines is a systematic review of a site, its systems, people, and processes, done to identify vulnerabilities, assess threats, and produce a prioritized plan for mitigation. For businesses operating in the Philippines, the right survey accounts for not only criminal threats, but also environmental hazards, infrastructure limitations, and legal requirements that affect operations and employee safety. This guide explains what a business should expect from a security survey, how to commission one, and how to turn findings into practical improvements you can afford and implement.
 
 What a security survey delivers

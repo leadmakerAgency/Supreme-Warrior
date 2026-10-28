@@ -15,8 +15,6 @@ permalink: "/blog/security-audit-philippines-compliance-process-costs/"
 
 A security audit Philippines companies can rely on will expose the gaps that most boards and executives do not see until an incident forces their attention. Too often a breach starts with a forgotten server, a weak admin password, or an outsourced vendor that never met minimum controls. An audit finds those faults early, shows the real risks, and gives a practical roadmap to reduce exposure.
 
-Introduction
-
 For businesses operating in the Philippines, a security audit is no longer optional. The Data Privacy Act and sector rules for banking, healthcare, and payments mean organizations must prove they protect personal data and critical systems. Beyond compliance, audits help companies prioritize limited security budgets, improve incident response, and reassure customers and partners. This article explains what a security audit in the Philippines typically covers, how the process works, what regulators expect, and how much audits commonly cost so you can plan with confidence.
 
 What a security audit in the Philippines covers
