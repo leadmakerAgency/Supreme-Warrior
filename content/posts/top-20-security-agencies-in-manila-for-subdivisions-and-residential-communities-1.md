@@ -2,7 +2,7 @@
 title: Top 20 Security Agencies in Manila for Subdivisions and Residential Communities
 slug: ''
 date: 2026-10-29
-draft: false
+draft: true
 excerpt: Protect gated subdivisions, private housing estates, and residential neighborhoods across Metro Manila with elite security providers. Discover specialized perimeter defense, gate access control, neighborhood roving patrols, and integrated community surveillance solutions.
 featured_image: /media/pexels-yankrukov-7792829.jpg
 hero_emoji: 🛡️

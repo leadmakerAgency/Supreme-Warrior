@@ -2,7 +2,7 @@
 title: Top 5 Security Agencies in Manila for Condominiums
 slug: ''
 date: 2026-10-20
-draft: false
+draft: true
 excerpt: Ensure high-rise living safety with Metro Manila's premier condominium security agencies. Discover specialized vertical guarding, access control management, emergency protocol execution, and integrated building surveillance solutions.
 featured_image: /media/image-business-security-philippines-a-practical-guide-for-smes-220747.png
 hero_emoji: 🛡️

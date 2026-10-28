@@ -2,7 +2,7 @@
 title: Top 20 Security Agencies in Manila for Commercial Buildings
 slug: ''
 date: 2026-11-02
-draft: false
+draft: true
 excerpt: Protect corporate offices, multi-tenant towers, and commercial complexes across Metro Manila with top-rated security agencies. Discover specialized lobby access management, tenant verification, emergency response protocols, and integrated building surveillance solutions.
 featured_image: /media/pexels-vlada-karpovich-7433919.jpg
 hero_emoji: 🛡️
